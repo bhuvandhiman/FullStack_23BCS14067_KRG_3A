@@ -1,0 +1,14 @@
+com\crowdfunding\backend\model\Campaign$Status.class
+com\crowdfunding\backend\model\Donation$PaymentStatus.class
+com\crowdfunding\backend\model\Donation.class
+com\crowdfunding\backend\repository\CampaignRepository.class
+com\crowdfunding\backend\controller\CampaignController.class
+com\crowdfunding\backend\CrowdfundingBackendApplication.class
+com\crowdfunding\backend\model\Campaign.class
+com\crowdfunding\backend\service\DonationService.class
+com\crowdfunding\backend\model\Campaign$Category.class
+com\crowdfunding\backend\repository\DonationRepository.class
+com\crowdfunding\backend\config\GlobalExceptionHandler.class
+com\crowdfunding\backend\controller\DonationController.class
+com\crowdfunding\backend\service\CampaignService.class
+com\crowdfunding\backend\config\WebConfig.class
